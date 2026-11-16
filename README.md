@@ -1,4 +1,4 @@
-# Prediction of Hospital Readmission and Gender-Biased Prediction Errors with Logistic Regression and Random Forest Models
+# Prediction of Hospital Readmission and Auditing Prediction Errors by Gender with Logistic Regression and Random Forest Models
 
 **QUESTION**
 
